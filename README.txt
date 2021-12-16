@@ -30,3 +30,6 @@ Consigna:
 	  Conclusiones   
 		<p>HTML es necesario para estructurar el contenido de las web que hoy conocemos y sin duda fue evolucionando con el tiempo</p>
 		<p>Sin lugar a dudas hay que aprenderlo para ir mejorando la calidad de las paginas web que utilizamos.</p>
+
+
+
